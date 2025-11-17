@@ -39,11 +39,11 @@ WHERE s.status = 'canceled'
   AND t.subject LIKE '%billing%';
 
 
-**Files Included
+*Files Included
 
 saas_support_lab.db — complete SQLite database
 sql/saas_support_lab.sql — schema and sample data
 
-**Purpose
+*Purpose
 
 This project provides a simple demonstration of using relational data and SQL to support technical troubleshooting in a SaaS environment.
