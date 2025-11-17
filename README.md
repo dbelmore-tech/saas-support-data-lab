@@ -1,17 +1,28 @@
 # SaaS Support Data Lab – Mini Project
 
-This is a small project showing how I use SQL and relational data to troubleshoot typical SaaS support issues. It includes:
+This project simulates a small SaaS support environment using a relational database and practical SQL troubleshooting techniques. It models real customer scenarios using four simple but realistic tables:
 
-- Users  
-- Subscriptions  
-- Support tickets  
-- Login events  
+- **users**
+- **subscriptions**
+- **tickets**
+- **login_events**
 
-The data can be explored using SQLite and DB Browser.
+The goal is to demonstrate how SQL and relational data can help identify issues, verify customer claims, and support clear troubleshooting decisions in a SaaS or technical support role.
 
-A few example SQL queries demonstrate how to:
-- Investigate login issues
-- View open support tickets
-- Connect billing problems to account cancellations
+---
 
-More details and files will be added as the project grows.
+## 🧩 What This Project Demonstrates
+
+- Understanding of relational databases  
+- Ability to run SQL queries to investigate customer issues  
+- Clear, structured thinking in support workflows  
+- Practical experience with SQLite and DB Browser  
+
+All data is contained in a single SQLite file (`saas_support_lab.db`) for easy exploration.
+
+---
+
+## 🛠 Tools
+
+- **SQLite** – lightweight relational database  
+- **DB Browser for SQLite** – visual tool for browsing tabl
