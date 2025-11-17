@@ -1,0 +1,2 @@
+-- Schema and seed data for the SaaS Support Data Lab project.
+-- This file will be updated with full SQL content.
